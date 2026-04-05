@@ -1,0 +1,16 @@
+# Temp/backup files
+*.bak
+*.tmp
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Sensitive data (keys, tokens, passwords)
+*-secret.*
+*-key.*
+*.key
+*.pem
+*.crt
