@@ -1,0 +1,27 @@
+/* Цвета из Zproger/bspwm-dotfiles */
+@define-color background #2b2f37;
+@define-color foreground #adb1b9;
+
+/* Цвета рабочих пространств */
+@define-color color1 #F9DE8F;
+@define-color color2 #ff9b93;
+@define-color color3 #95e1d3;
+@define-color color4 #81A1C1;
+@define-color color5 #A3BE8C;
+@define-color color6 #F9DE8F;
+@define-color color7 #ff9b93;
+@define-color color8 #95e1d3;
+@define-color color9 #81A1C1;
+
+/* Цвета модулей */
+@define-color temp #a4ebf3;
+@define-color cpu #989cff;
+@define-color mem #d19a66;
+@define-color batt #A0E8A2;
+@define-color batt-charge #DF8890;
+@define-color backlight #61afef;
+@define-color audio #d35f5e;
+@define-color network #A3BE8C;
+@define-color clock #888e96;
+@define-color launcher #61afef;
+@define-color exit #d35f5e;

@@ -162,3 +162,10 @@ label:focus {
   padding: 0 15px;
   font-size: 16px;
 }
+
+#custom-arch {
+    font-size: 20px;
+    padding-right: 15px;
+    color: #1793d1;
+    /*color: #ffffff;*/
+}
